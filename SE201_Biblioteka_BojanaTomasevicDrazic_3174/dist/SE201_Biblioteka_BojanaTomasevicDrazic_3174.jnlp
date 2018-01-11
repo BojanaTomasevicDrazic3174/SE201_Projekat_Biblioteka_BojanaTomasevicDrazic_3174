@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="SE201_Biblioteka_BojanaTomasevicDrazic_3174.jnlp">
+  <information>
+    <title>SE201_Biblioteka_BojanaTomasevicDrazic_3174</title>
+    <vendor>Bojana</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="SE201_Biblioteka_BojanaTomasevicDrazic_3174.jar" size="47668" download="eager" />
+    <jar href="lib\dom4j-1.6.1.jar" size="313898" download="eager" />
+    <jar href="lib\jsoup-1.11.2.jar" size="392350" download="eager" />
+    <jar href="lib\junit-4.11.jar" size="245039" download="eager" />
+    <jar href="lib\junit-4.12-javadoc.jar" size="937942" download="eager" />
+    <jar href="lib\log4j-api-2.0-rc1.jar" size="116211" download="eager" />
+    <jar href="lib\log4j-core-2.0-rc1.jar" size="702665" download="eager" />
+    <jar href="lib\mysql-connector-java-5.0.4-bin.jar" size="495944" download="eager" />
+    <jar href="lib\tomcat-catalina-9.0.1.jar" size="1607874" download="eager" />
+    <jar href="lib\tomcat-embed-core-9.0.0.M26.jar" size="3091493" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="SE201_Biblioteka_BojanaTomasevicDrazic_3174" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="View.Prijava_na_sistem_fx"  name="SE201_Biblioteka_BojanaTomasevicDrazic_3174" />
+  <update check="always"/>
+</jnlp>
